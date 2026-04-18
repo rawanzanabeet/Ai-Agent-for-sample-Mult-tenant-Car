@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python facet">
+      <configuration sdkName="Python 3.13 (rentcore-agent)" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/Rentcore-Ai-agent">
+      <excludeFolder url="file://$USER_HOME$/Rentcore-Ai-agent/.tmp" />
+      <excludeFolder url="file://$USER_HOME$/Rentcore-Ai-agent/.venv" />
+      <excludeFolder url="file://$USER_HOME$/Rentcore-Ai-agent/temp" />
+      <excludeFolder url="file://$USER_HOME$/Rentcore-Ai-agent/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.13 (rentcore-agent)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Python 3.13 (rentcore-agent) interpreter library" level="application" />
+  </component>
+</module>
